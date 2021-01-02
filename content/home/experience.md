@@ -22,24 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Engineering Intern
+    company: Intel Corporation
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: ''
+    date_start: '2020-07-27'
+    date_end: '2021-02-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Secure programming for Project Celadon - an Android software stack optimized for Intel platforms.
+        * Created a triple-OS demo on Ubuntu for Corporate customers, Intel officially published a WeChat public article on the demo.
+        * Feature extensions to vm-manager - Added PCI device passthroughs for USB, UDC, Ethernet, Wifi and Audio.
         
-  - title: Professor
-    company: University X
+  - title: Backend Intern
+    company: Yamu Networks
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shanghai
+    date_start: '2020-05-15'
+    date_end: '2020-07-27'
+    description: |2-
+        Responsibilities include:
+        * Spearheaded the development for the new probing distributed system. 
+        * Responsible for the backend central server, capable of handling 10,000 devices.
+        * Designed the communications protocol used by the distributed probing system. 
 ---

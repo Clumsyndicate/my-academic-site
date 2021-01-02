@@ -63,10 +63,11 @@ email: ""
 highlight_name: false
 ---
 
+I'm an undergraduate student at UCLA, majoring in CS and minoring in Math. My academic interests range from Software engineering projects to machine learning projects. As an avid self-learner, I have done competitive programming, mobile dev, full-stack dev, distributed system design, kernel programming, virtual machine management, and machine learning research. I understand the workings of computer systems well.
 
+I'm currently working as an Android Security Intern for Intel Corporation R&D. I'm actively looking for summer SWE internships in the US.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I love playing the guitar, snowboarding and motorcycling for pastime hobbies. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume Johnson Zhou_.pdf" "newtab" >}}resumé{{< /staticref >}}.
